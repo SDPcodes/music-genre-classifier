@@ -12,7 +12,7 @@ genius.retries = 3
 retro_artists = ["ABBA", "Bee Gees", "Queen", "Boney M.", "The Beatles"]
 
 data = []
-songs_per_artist = 25 
+songs_per_artist = 500 
 
 for artist_name in retro_artists:
     print(f"Searching for songs by {artist_name}...")
